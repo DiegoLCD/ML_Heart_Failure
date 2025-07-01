@@ -7,7 +7,6 @@ Este proyecto utiliza técnicas de aprendizaje supervisado para predecir la prob
 ## Estructura del proyecto
 
 - `Notebook_ML_Heart_failure.ipynb`: Notebook principal con el análisis, procesamiento de datos, entrenamiento de modelos y visualización de resultados.
-- `Data/heart_failure_clinical_records.csv`: Dataset original con los registros clínicos de los pacientes.
 
 ## Requisitos
 
